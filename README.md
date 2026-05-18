@@ -1,1 +1,1 @@
-# Face-Recognition-Ssytem
+# Face-Recognition-System
